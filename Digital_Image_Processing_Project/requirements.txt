@@ -1,0 +1,8 @@
+# ELEC3130 face beauty / segmentation pipeline (rey_code)
+# Python 3.8+ recommended. Install from repo root:
+#   pip install -r requirements.txt
+
+numpy>=1.23.0,<3.0
+scipy>=1.9.0
+matplotlib>=3.6.0
+Pillow>=9.0.0
